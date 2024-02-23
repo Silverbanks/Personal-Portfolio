@@ -101,15 +101,15 @@ Within `/src/App.jsx` you will see a variable called `siteProps`. This is a Java
 
 ```javascript
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "microsoft",
+  name: "SILVER T CHIAHEMBA",
+  title: "Software Engineering & IT Student",
+  email: "silverchiahemba@gmail.com",
+  gitHub: "Silverbanks",
+  instagram: "silverbankz",
+  linkedIn: "silver-chiahemba-992a91208",
+  medium: "@silverchiahemba",
+  twitter: "@silver_banks",
+  youTube: "silverbanks",
 };
 ```
 
@@ -125,10 +125,10 @@ A couple possible sites to find photos are [Pixabay](https://pixabay.com/) and [
 
 Go to the following below components to update the `import image...` line to reference the new image you downloaded for that section, as well as the `imageAltText` for the image:
 
-* `/src/Components/Home.jsx` - section at top of the page, main image you will see when site loads (woman standing by server wall in sample)
+* `/src/Components/Home.jsx` - section at top of the page, main image you will see when site loads (a man with dark glasses looking sideways)
    ```javascript
       import image from "../images/server-wall.jpg";
-      const imageAltText = "woman holding laptop standing by server room with glass wall";
+      const imageAltText = "a man with dark glasses looking sideways";
    ```
 * `/src/Components/About.jsx` - background behind the detailed "About me" section (abstract mosaic in sample)
    ```javascript
@@ -157,24 +157,24 @@ The sample design has 4, but the number you include is up to you.
 ```javascript
 const projectList = [
   {
-    title: "10 Things to know about Azure Static Web Apps 🎉",
-    description: "Collaboration to create a beginner friendly....",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "AirBnB Clone🎉",
+    description: "The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB)",
+    url: "https://github.com/Silverbanks/AirBnB_clone_v4",
   },
   {
-    title: "Web Development for Beginners",
-    description: "Contributed sketch note imagery to accompany...",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "System Engineering, DevOps",
+    description: "These were projects that trained on System Engineering and DevOps",
+    url: "https://github.com/Silverbanks/alx-system_engineering-devops",
   },
   {
-    title: "My Resume Site",
-    description: "Created from Microsoft's resume workshop...",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "AirBnb Clone",
+    description: "The third part of the AirBnB clone project",
+    url: "https://github.com/Silverbanks/AirBnB_clone_v3",
   },
   {
-    title: "GitHub Codespaces and GitHub.dev",
-    description: "Video interview to explain when to use GitHub.dev...",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "High-Level Programming",
+    description: "Projects contained here showcased what I learnt on High-Level Programming at ALX",
+    url: "https://github.com/Silverbanks/alx-higher_level_programming",
   },
 ];
 ```

@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hey there! I'm Silver, a final year Information Technology student at National Open University of Nigeria and an aspiring Software Engineer, studying at ALX Africa.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web development",
+  "Software development",
+  "Data structures and algorithms",
+  "DevOps",
+  "Database management",
+  "APIs",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm passionate about coding and creating innovative solutions. I've gained a solid foundation in various programming languages and technologies. I love tackling challenging projects and finding creative solutions to real-world problems. When I'm not coding, you'll probably find me exploring new technologies or working on personal coding projects. I'm excited to share my journey and showcase my skills through this portfolio! I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Software Engineering and IT experience, I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
