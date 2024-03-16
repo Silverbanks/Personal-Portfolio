@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "silver-chiahemba-992a91208",
   medium: "@silverchiahemba",
   twitter: "@silver_banks",
-  youTube: "silverbanks",
+  youTube: "@silver_banks",
 };
 
 const primaryColor = "#4E567E";
